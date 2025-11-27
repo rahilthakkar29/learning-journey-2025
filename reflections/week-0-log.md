@@ -18,3 +18,37 @@
 - Branch creation and merging practice
 
 ---
+
+## Day 3 (Nov 26) ✅
+**Time**: 120 mins
+**Completed**:
+- Made 10+ practice commits
+- Created and merged 3 branches
+- Deleted branches (safe and force)
+- Installed Go (version: go1.25.4 )
+- Completed Tour of Go basics
+- Created first Go program
+
+**Git Skills Practiced**:
+- Branch creation: git checkout -b
+- Branch switching: git checkout / git switch
+- Merging: git merge
+- Branch deletion: git branch -d / -D
+- Viewing history: git log --oneline --graph
+
+**Go Setup**:
+- Installed Go successfully
+- Created Go module
+- Ran first Go program
+
+**Struggled with**:
+- Not struggled, but trying to gasp what I've gone through in go tour. There are a lot of things I read there and practices but even with variables there are numerous ways to define the variable like "var var_name vartype = value" or "var_name := value", or something else(maybe I already forgot). Other things is for loop, I know how loop works, but definition wise it's literally a while loop because in the end the for loop was like for x > 10 {do this}. Then if part, it was easy but when it started with inside if you can add condition like if math.pow(something); v > power {} I was quite lost there. But defining functions, function parameters, return types, more than one return type, imports, import ("" "") all those parts were quite easy to catch.
+
+**What clicked**:
+- Did a lot commits, so commit part and how git branching works and merging works, etc clicked today with practice.
+
+**Tomorrow**:
+- Read networking fundamentals (TCP/IP, HTTP)
+- Take notes on how the internet works
+
+---
